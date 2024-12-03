@@ -7,7 +7,7 @@ import Career from "./pages/career/Career";
 import Home from "./pages/home/Home";
 import Layout from "./pages/layout/Layout";
 import LogIn from "./pages/login/LogIn";
-import NotFound from "./pages/NotFound/NotFound";
+import NotFound from "./pages/NotFound/NotFound.jsx";
 
 function App() {
 
